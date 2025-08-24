@@ -6,9 +6,9 @@
 <h2>📱Minhas redes sociais</h2>
 
 <div align="start">
-  <a hren="https://www.instagram.com/wagner_da_silva_juninor/" target="_blank"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="instagram" title="instagram"></a>
-  <a hren="#" target="_blank"><img height="30px" src="https://t.ctcdn.com.br/DMxRsoFn2EzzWk6WaToT6sIidL8=/i489928.jpeg"></a>
-  <img height="30px" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN">
+  <a href="https://www.instagram.com/wagner_da_silva_juninor/" target="_blank"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="instagram" title="instagram"></a>
+  <a href="https://www.facebook.com/" target="_blank"><img height="30px" src="https://t.ctcdn.com.br/DMxRsoFn2EzzWk6WaToT6sIidL8=/i489928.jpeg"></a>
+  <img height="30px" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="facebook">
 </div>
 
 <hr>
