@@ -30,6 +30,6 @@
     <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ELTAILS&show_icons=true&theme=radical">
   </a>
 <a>
-   <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELTAILS&layout=compact&langs_count=16&theme=radical"/>
+   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELTAILS&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
