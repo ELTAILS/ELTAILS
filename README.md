@@ -1,5 +1,5 @@
 ## 🧑‍💻Wagner da silva junior (ELTAILS) **`Programador`**
-🧑‍💻 Wagner da silva junior, sou maria helena no estádo do paraná. <br>
+🧑‍💻 Wagner da silva junior, sou de maria helena no estádo do paraná. <br>
 🏫 Atualmente estou cursando sistemas para internet na faculdade UniAlfa. <br>
 💻 Interessado em Full Stack e boas práticas de programação. <br>
 
