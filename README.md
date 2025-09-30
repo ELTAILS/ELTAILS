@@ -7,6 +7,7 @@
 
 <div align="start">
   <a href="https://www.instagram.com/wagner_da_silva_juninor/" target="_blank"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="instagram" title="instagram"></a>
+  <a href="https://www.linkedin.com/in/wagner-da-silva-junior-638671355/" target="_blank"><img height="30px" src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" title="linkedin"></a>
 <!--   <a href="https://www.facebook.com/" target="_blank"><img height="30px" src="https://t.ctcdn.com.br/DMxRsoFn2EzzWk6WaToT6sIidL8=/i489928.jpeg"></a>
   <img height="30px" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="facebook">
 </div> -->
