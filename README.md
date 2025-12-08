@@ -25,7 +25,7 @@
   <img height="60px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
 </div>
   
-<h2>📊Estatisticas<h2>
+<!-- <h2>📊Estatisticas<h2>
 <div>
   <a>
     <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ELTAILS&show_icons=true&theme=radical">
@@ -33,4 +33,4 @@
 <a>
    <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELTAILS&layout=compact&langs_count=16&theme=radical"/>
   </a>
-</div>
+</div> -->
