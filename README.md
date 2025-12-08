@@ -23,6 +23,7 @@
   <img height="60px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
   <img height="60px" src="https://miro.medium.com/1*co_1qORNdM0PI1nvCp7Iig.png">
   <img height="60px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
+  <img height="60px" src="https://alexandremagno.net/wp-content/uploads/2018/05/bootstrap-stack.png">
 </div>
   
 <!-- <h2>📊Estatisticas<h2>
