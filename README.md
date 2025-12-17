@@ -24,6 +24,7 @@
   <img height="60px" src="https://miro.medium.com/1*co_1qORNdM0PI1nvCp7Iig.png">
   <img height="60px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
   <img height="60px" src="https://alexandremagno.net/wp-content/uploads/2018/05/bootstrap-stack.png">
+  <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png">
 </div>
   
 <!-- <h2>📊Estatisticas<h2>
