@@ -2,26 +2,26 @@
 
 Busco criar sites Otimizados e seguros de se acessar, me importando bastante com a experiência do usuário/cliente.
 
-Atualmente sou estudante da faculdade UniAlfa de Umuarama e estou buscando vagas de estágio ou de programador Junior relacionada à programação web com PHP.
+Atualmente sou estudante da faculdade UniAlfa de Umuarama e estou buscando vagas de estágio ou de Programador Júnior relacionada à programação web com PHP.
 
 As minhas tecnologias de desenvolvimento são:
 <ul>
+  <li>PHP</li>
+  <li>MySQL</li>
+  <li>Composer</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Java</li>
   <li>Bootstrap</li>
-  <li>MySQL</li>
-  <li>Composer</li>
-  <li>PHP</li>
+  <li>Java</li>
 </ul>
 
 Também tenho conhecimentos de programação orientada ao objeto e arquitetura MVC.
 
 <strong>Outras competências</strong> que possuo atualmente são: Trabalho em equipe; Comunicação clara; Vontade de aprender; Humildade e resiliência; Organização e disciplina; Raciocínio lógico e resolução de problemas; Proatividade;
 
-<strong>Estou buscando conhecimentos de: PDO (Php data Object), API rest e tailwind css.</strong>
+<strong>Estou buscando conhecimentos de: PDO (PHP Data Objects), API rest e tailwind css.</strong>
 
-Pode me encontrar nas informações do menu ao lado (De baixo da foto) ou no meu Whatzapp: <strong>(44) 98448-7906</strong>
+Pode me encontrar nas informações do menu ao lado (De baixo da foto) ou no meu WhatsApp: <strong>(44) 98448-7906</strong>
 
 Preferência em trabalhar <strong>Home Office</strong> 😊 
