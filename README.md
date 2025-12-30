@@ -1,38 +1,17 @@
-## 🧑‍💻Wagner da silva junior (ELTAILS) **`Programador`**
-🧑‍💻 Wagner da silva junior, sou de maria helena no estádo do paraná. <br>
-🏫 Atualmente estou cursando sistemas para internet na faculdade UniAlfa. <br>
-💻 Interessado em Full Stack e boas práticas de programação. <br>
+<h2>Olá👋 meu nome é Wagner da silva Junior | Desenvolvedor Web PHP🧑‍💻</h2>
 
-<h2>📱Minhas redes sociais</h2>
+Busco criar sites Otimizados e seguros de se acessar, me importando bastante com a experiência do usuário/cliente, sempre buscando em me aprimorando cada vez mais.
 
-<div align="start">
-  <a href="https://www.instagram.com/wagner_da_silva_juninor/" target="_blank"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="instagram" title="instagram"></a>
-  <a href="https://www.linkedin.com/in/wagner-da-silva-junior-638671355/" target="_blank"><img height="30px" src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" title="linkedin"></a>
-<!--   <a href="https://www.facebook.com/" target="_blank"><img height="30px" src="https://t.ctcdn.com.br/DMxRsoFn2EzzWk6WaToT6sIidL8=/i489928.jpeg"></a>
-  <img height="30px" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="facebook">
-</div> -->
+Atualmente sou estudante da faculdade UniAlfa de Umuarama e estou buscando vagas de estágio ou de programador Junior relacionada à programação web com PHP.
 
-<hr>
+As minhas tecnologias de desenvolvimento são: Html, Css, JavaScript, java, bootstrap, MySQL, Composer e principalmente PHP.
 
-<h2>🤖linguagens e Tecnologias <h2>
-<div>
-  <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
-  <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png">
-  <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-  <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
-  <img height="60px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
-  <img height="60px" src="https://miro.medium.com/1*co_1qORNdM0PI1nvCp7Iig.png">
-  <img height="60px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
-  <img height="60px" src="https://alexandremagno.net/wp-content/uploads/2018/05/bootstrap-stack.png">
-  <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png">
-</div>
-  
-<!-- <h2>📊Estatisticas<h2>
-<div>
-  <a>
-    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ELTAILS&show_icons=true&theme=radical">
-  </a>
-<a>
-   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELTAILS&layout=compact&langs_count=16&theme=radical"/>
-  </a>
-</div> -->
+Também tenho conhecimentos de programação orientada ao objeto e arquitetura MVC.
+
+Outras competências que possuo atualmente são: Trabalho em equipe; Comunicação clara; Vontade de aprender; Humildade e resiliência; Organização e disciplina; Raciocínio lógico e resolução de problemas; Proatividade;
+
+<strong>Estou buscando conhecimentos de: PDO (Php data Object), API rest e tailwind css.</strong>
+
+Pode me encontrar nas informações do menu ao lado (De baixo da foto) ou no meu Whatzapp: <strong>(44) 98448-7906</strong>
+
+Preferência em trabalhar Home Office 😊 
