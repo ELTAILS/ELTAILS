@@ -20,8 +20,6 @@ Também tenho conhecimentos de programação orientada ao objeto, arquitetura MV
 
 <strong>Outras competências</strong> que possuo atualmente são: Trabalho em equipe; Comunicação clara; Vontade de aprender; Humildade e resiliência; Organização e disciplina; Raciocínio lógico e resolução de problemas; Proatividade;
 
-<strong>Estou buscando conhecimentos de API rest</strong>
-
 Pode me encontrar nas informações do menu ao lado (De baixo da foto) ou no meu WhatsApp: <strong>(44) 98448-7906</strong>
 
 Preferência em trabalhar <strong>Home Office</strong> 😊 
