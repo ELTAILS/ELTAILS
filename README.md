@@ -16,7 +16,9 @@ As minhas tecnologias de desenvolvimento são:
   <li>Java</li>
 </ul>
 
-Também tenho conhecimentos de programação orientada ao objeto, arquitetura MVC e PDO (PHP Data Objects).
+Também tenho conhecimentos de programação orientada ao objeto, arquitetura MVC, PDO (PHP Data Objects) e API REST.
+
+Por agora estou estudando <strong> node.js / type.js e Laravel</strong> e me aperfeiçoando cada vez mais.
 
 <strong>Outras competências</strong> que possuo atualmente são: Trabalho em equipe; Comunicação clara; Vontade de aprender; Humildade e resiliência; Organização e disciplina; Raciocínio lógico e resolução de problemas; Proatividade;
 
