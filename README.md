@@ -7,6 +7,7 @@ Atualmente sou estudante da faculdade UniAlfa de Umuarama e estou buscando vagas
 As minhas tecnologias de desenvolvimento são:
 <ul>
   <li>PHP</li>
+  <li>node.js</li>
   <li>MySQL</li>
   <li>Composer</li>
   <li>HTML</li>
@@ -18,7 +19,7 @@ As minhas tecnologias de desenvolvimento são:
 
 Também tenho conhecimentos de programação orientada ao objeto, arquitetura MVC, PDO (PHP Data Objects) e API REST.
 
-Por agora estou estudando <strong> node.js / type.js e Laravel</strong> e me aperfeiçoando cada vez mais.
+Por agora estou estudando <strong> docker / type.js e Laravel</strong> e me aperfeiçoando cada vez mais.
 
 <strong>Outras competências</strong> que possuo atualmente são: Trabalho em equipe; Comunicação clara; Vontade de aprender; Humildade e resiliência; Organização e disciplina; Raciocínio lógico e resolução de problemas; Proatividade;
 
